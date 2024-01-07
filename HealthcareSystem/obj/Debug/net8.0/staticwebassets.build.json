@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aw3MMLZmYtsOtA5AUbDYO5PaO9EVgBVcbhVBRnWYslI=",
+  "Source": "HealthcareSystem",
+  "BasePath": "_content/HealthcareSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
