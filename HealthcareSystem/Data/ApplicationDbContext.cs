@@ -8,5 +8,7 @@ public class ApplicationDbContext : IdentityDbContext
     {
     }
 
-    // DbSets for your entities (e.g., Patients, Appointments) will go here
+    public DbSet<Patient>? Patients { get; set; }
+    public DbSet<Appointment>? Appointments { get; set; }
+    public DbSet<Billing>? Billings { get; set; }
 }
